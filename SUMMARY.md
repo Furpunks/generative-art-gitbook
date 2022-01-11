@@ -9,3 +9,4 @@
 * [Assets](assets.md)
 * [Image Hosting](image-hosting.md)
 * [Setting up Metamask](setting-up-metamask.md)
+* [Future Roadmap](future-roadmap.md)
