@@ -7,4 +7,6 @@
 * [Assets](assets.md)
 * [Image Hosting](image-hosting.md)
 * [Setting up Metamask](setting-up-metamask.md)
+* [Adding NFTs to Opensea](adding-nfts-to-opensea.md)
 * [Future Roadmap](future-roadmap.md)
+* [Troubleshooting](troubleshooting.md)
