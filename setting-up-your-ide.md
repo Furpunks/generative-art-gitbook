@@ -56,31 +56,7 @@ We will now also have the modules added to our repo. We can verify this by looki
 
 ![](<.gitbook/assets/Screenshot 2022-01-12 173917 (1).png>)
 
-### Install Yarn
-
-Yarn is another package manager similar to npm which we will also be using. To install yarn run the following from Terminal.
-
-`npm install --global yarn`
-
-![](<.gitbook/assets/Screenshot 2022-01-12 174535.png>)
-
-We now need to add yarn to our project. Run the following in Terminal.
-
-`yarn add all`
-
-You should see similar output. For the time being you can ignore the warning message. I will investigate if it's actually a problem and if there is a better way to handle package managment.&#x20;
-
-![](<.gitbook/assets/Screenshot 2022-01-12 180021.png>)
-
-&#x20;
-
-If you get the following error while trying to add yarn:
-
-<mark style="color:red;">cannot be loaded because running scripts is disabled on this system.</mark>
-
-You will need to open command prompt as Administrator and type in the following:
-
-`Powershell Set-ExecutionPolicy RemoteSigned`
+###
 
 &#x20;
 
