@@ -30,7 +30,7 @@ Furpunks and Krypto Kitty are not affliated in anyway other than our love for $K
 
 Meet the Furpunks!
 
-![](.gitbook/assets/furpunks.png)
+![](<.gitbook/assets/furpunks (1).png>)
 
 ## Goal
 
