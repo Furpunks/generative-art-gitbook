@@ -28,7 +28,9 @@ Krypto Kitty also have a super friendly community of crypto and cat lovers in th
 
 Furpunks and Krypto Kitty are not affliated in anyway other than our love for $KTY and of course cats!
 
+Meet the Furpunks!
 
+![](.gitbook/assets/furpunks.png)
 
 ## Goal
 
