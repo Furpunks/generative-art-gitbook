@@ -1,5 +1,17 @@
 # Requirements
 
+**Furpunks Github**
+
+This is the main code we will use in this guide. We will download this later.
+
+{% embed url="https://github.com/Furpunks/generative-art" %}
+
+#### Microsoft Windows
+
+This guide has been created using Windows 11. Other operating systems such as OSX will be added in the future.
+
+
+
 **Visual Studio Code**
 
 This guide uses Microsoft's Visual Studio Code as its IDE. Future guides will be expanded to use other IDE's and operating systems.
@@ -11,8 +23,6 @@ This guide uses Microsoft's Visual Studio Code as its IDE. Future guides will be
 Git is a software version control repository which is used to store source code for projects.&#x20;
 
 {% embed url="https://gitforwindows.org" %}
-
-
 
 **Node.js**&#x20;
 
@@ -26,15 +36,11 @@ Google's web browser.
 
 {% embed url="https://www.google.co.uk/chrome" %}
 
-****
-
 **Metamask**
 
 Metamask is a crypto wallet which can be used directly from your Chrome browser.
 
 {% embed url="https://metamask.io" %}
-
-
 
 ### **Optional**
 

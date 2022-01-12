@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Furpunks Intro](README.md)
-* [Aim](aim.md)
 * [Acknowledgements](acknowledgements.md)
 * [References](references.md)
 * [Requirements](requirements.md)

@@ -1,8 +1,28 @@
 # Setting up your IDE
 
-Visual Studio Code
+This guide uses Microsoft's Visual Studio Code (VS Code) for its IDE. Other IDEs will be added in the future to support different operating systems.
 
-git clone [https://github.com/Furpunks/generative-art](https://github.com/Furpunks/generative-art) &#x20;
+
+
+### Install VS Code
+
+The first thing we need to do in install VS Code. Find the executeable you downloaded and run through the installation wizard. After it has finished installed you can launch it from your Windows start menu. You should see a screen like this.
+
+![](<.gitbook/assets/VS Code First Run.png>)
+
+### Clone Furpunks
+
+Now we need to clone the Furpunks github repository to our system. To do that we need to open Terminal in VS Code. Click Terminal, New Terminal or Ctrl+Shift\_+'
+
+![](<.gitbook/assets/Screenshot 2022-01-12 170054.png>)
+
+In the terminal prompt we want to type the following follwed by return.
+
+
+
+```
+git clone https://github.com/Furpunks/generative-art
+```
 
 
 
