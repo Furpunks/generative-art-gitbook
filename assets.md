@@ -1,16 +1,16 @@
 # Assets
 
-Assets are probably one of, if not _the_, most important part of creating NFTs. Without good assets your final image will not look very good. I'm terrible at artistic endeavours so don't judge my Krypto Kitty NFTs too harshly!
+Assets are probably one of, if not _the_, most important part of creating NFTs. Without good assets your final image will not look very good. I'm pretty terrible at artistic endeavours so don't judge my Krypto Kitty NFTs too harshly!
 
-The Furpunks repo has four pre loaded assets for you to play with. You can view them under the 'input' folder in Explorer. You will see Background, Body Colour, Colar and Face.
+The Furpunks repo has four pre loaded layer assets for you to play with. You can view them under the 'layers' folder in Explorer. You will see Background, Body Colour, Colar and Eyes like the following screenshot.
 
-![](<.gitbook/assets/Screenshot 2022-01-12 181137.png>)
+![](<.gitbook/assets/Screenshot 2022-01-26 203834.png>)
 
-Each asset folder has three sub folder, Common, Rare and Super Rare. The sub folders are refered to classifications. Additional classifications can be added and will be covered in a follow up guide.
 
-To view one of the assets click on the folder and classification next to the corresponding one. Below you will see I have selected Brown.png from the Common classification folder under the Body Colour asset.
 
-![](<.gitbook/assets/Screenshot 2022-01-12 181441.png>)
+To view one of the assets click on the folder and classification next to the corresponding one. Below you will see I have selected Brown#50.png from the Body Colour layer.
+
+![](<.gitbook/assets/Screenshot 2022-01-26 204033.png>)
 
 ### Configuration Settings
 
