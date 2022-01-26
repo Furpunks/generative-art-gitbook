@@ -24,13 +24,15 @@ You will now need to change to a drive or directory that you want to clone the F
 
 To clone the repo, in the terminal prompt we want to type the following follwed by return.
 
-``[`git clone https://github.com/Furpunks/generative-art`](https://github.com/Furpunks/hashlips\_art\_engine.git)``
+``[`git clone`](https://github.com/Furpunks/hashlips\_art\_engine.git)[`https://github.com/Furpunks/furpunks_art_engine`](https://github.com/Furpunks/furpunks\_art\_engine)``
 
 You should see the following output being displayed in your terminal window.
 
 ![](<.gitbook/assets/Screenshot 2022-01-12 170454 (2).png>)
 
-Let's open the repo in VS Code. From the menu click File Open Folder and browse to the newly downloaded folder from github. This will be called ‘generative-art’. Select Open Folder.
+Let's open the repo in VS Code. From the menu click File Open Folder and browse to the newly downloaded folder from github. This will be called ‘furpunks\_art\_engine’. Note: The screen shot below says generative-art. I haven't had time to recreate this walkthrough yet using the new folder name.
+
+Select Open Folder.
 
 &#x20;When you first open a repository in VS Code you will be prompted to trust the authors of the files in the folder.
 
@@ -40,7 +42,7 @@ If you are like my cat and don't trust me, then click No! Otherwise to continue 
 
 You will now be presented with a screen that looks like this. Your Generative-Art repo should now appear on the left hand side in the Explorer.
 
-![](<.gitbook/assets/Screenshot 2022-01-12 172045.png>)
+![](<.gitbook/assets/Screenshot 2022-01-26 201843.png>)
 
 ### Install Node JS Modules
 
@@ -50,14 +52,12 @@ You will now be presented with a screen that looks like this. Your Generative-Ar
 
 &#x20;Once completed you will see the following output in Terminal.
 
-![](<.gitbook/assets/Screenshot 2022-01-12 173757.png>)
+![](<.gitbook/assets/Screenshot 2022-01-26 202031.png>)
 
 We will now also have the modules added to our repo. We can verify this by looking at the Explorer and confirming that the folder node\_modules is present.
 
-![](<.gitbook/assets/Screenshot 2022-01-12 173917 (1).png>)
+![](<.gitbook/assets/Screenshot 2022-01-26 202143.png>)
 
-###
 
-&#x20;
 
 That's it, our IDE should now be all set up and ready for us to create our first NFTs.
