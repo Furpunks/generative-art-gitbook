@@ -2,9 +2,9 @@
 
 **Furpunks Github**
 
-This is the main code we will use in this guide. We will download this later.
+This is the main code we will use in this guide. You don't need to download it now as we will download this into our IDE later.
 
-{% embed url="https://github.com/Furpunks/generative-art" %}
+{% embed url="https://github.com/Furpunks/furpunks_art_engine" %}
 
 #### Microsoft Windows
 
