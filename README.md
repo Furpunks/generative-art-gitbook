@@ -26,7 +26,7 @@ Krypto Kitty also have a super friendly community of crypto and cat lovers in th
 
 
 
-Furpunks and Krypto Kitty are not affliated in anyway other than our love for $KTY and of course cats!
+Furpunks and Krypto Kitty are not affiliated in any way other than our love for $KTY and of course cats!
 
 Meet the Furpunks!
 
@@ -34,7 +34,7 @@ Meet the Furpunks!
 
 ## Goal
 
-By the end of this guide you should be able to modifiy the code to suit your specific requirements and view your NFTs on Opensea. Other platforms will be added as time goes by so be sure to check back to see if your prefered platform is listed and to view the additional updates.
+By the end of this guide you should be able to modify the code to suit your specific requirements and view your NFTs on an NFT marketplace such as Opensea. Other platforms will be added as time goes by so be sure to check back to see if your preferred platform is listed and to view the additional updates.
 
 
 

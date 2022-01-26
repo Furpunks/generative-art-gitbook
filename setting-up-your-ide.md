@@ -24,7 +24,7 @@ You will now need to change to a drive or directory that you want to clone the F
 
 To clone the repo, in the terminal prompt we want to type the following follwed by return.
 
-`git clone https://github.com/Furpunks/generative-art`
+``[`git clone https://github.com/Furpunks/generative-art`](https://github.com/Furpunks/hashlips\_art\_engine.git)``
 
 You should see the following output being displayed in your terminal window.
 
