@@ -1,4 +1,4 @@
-# Configuration
+# Configuration Part 1
 
 ### Configuration Settings
 
@@ -113,3 +113,7 @@ We can see that my Kitty has a White background, Brown body, Green eyes and blue
 
 
 If your json is appearing all on a single line you can have VS Code format it correctly for you by hitting 'shift+alt+f'
+
+### Summary
+
+That's it for our initial configuration. We now need to generate a CID for where our files will be stored on IPFS. Once we do we will come back to the config.js code and update our ipfs URI. Don't worry, we won't need to regenerate our NFTs again in order to update all of the JSON files automatically.
