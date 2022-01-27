@@ -41,9 +41,19 @@ Here are a few pros and cons of the different options.
 
 ## Setting up IPFS
 
+Like with many of the other areas covered in this guide there are a few different ways to upload and store your NFTs on IPFS. This guide will cover using Pinata.cloud. Other methods will be added at a later time so check back to see if your preferred method has been added.
 
+Pinata.cloud is an online service that allows you to upload and store your NFTs for Free. Their Free plan includes 1 GB of storage which should be enough for most projects.&#x20;
 
-****
+First we need to head over to Pinata.Cloud and register for a free account:
+
+{% embed url="https://www.pinata.cloud" %}
+
+Their website may have changed by the time you read this but it currently looks like this:
+
+![](<.gitbook/assets/Screenshot 2022-01-26 223102.png>)
+
+You will want to click Try for Free in the top right.
 
 
 
