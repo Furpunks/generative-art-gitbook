@@ -101,6 +101,8 @@ From here you can see all the NFT file names listed. Clicking on one of them wil
 
 ![](<.gitbook/assets/Screenshot 2022-01-26 230840.png>)
 
+### Summary
+
 That's it! We are now ready for the next step. Before continuing be sure to copy your CID. A good place to store it while we work through this guide is in Notepad.
 
 Once you've got your CID continue to the next step.
