@@ -40,7 +40,7 @@ In a later update to the guide I will walk through what each line of code is doi
 
 
 
-With our smart contract in Remix we now need to complie it so that Remix can execute it in a later step. To do so click on the Solidity complier icon, the first yellow circle in the image below.
+With our smart contract in Remix we now need to compile it so that Remix can execute it in a later step. To do so click on the Solidity complier icon, the first yellow circle in the image below.
 
 ![](<.gitbook/assets/Screenshot 2022-02-01 142353.png>)
 
@@ -112,12 +112,49 @@ This is the base URI to display for NFTs that have not been revealed yet. This i
 
 
 
+Lets take a look at what all those settings look like when configured.
+
 Once we have selected our Environment, Contract and added in our values for the contract parameters your screen should look like this:
 
 ![](<.gitbook/assets/Screenshot 2022-02-01 172616.png>)
 
+_Side note: All the steps above are the same for the Binance Smart Chain as well if you're project is on BSC. In order for the contract to be deployed to BSC you will need to make sure you have selected a BSC Testnet in Metamask._
 
+Now we're ready to execute our Remix code and deploy our smart contract to the Ethereum blockchain. Click transact. __&#x20;
 
+Once we click transact Metamask will pop up a confirmation window. From here we can see the expected gas fees in ETH. Click Confirm to proceed with the transaction.
 
+![](<.gitbook/assets/Screenshot 2022-02-01 173512.png>)
 
-&#x20;
+The deployment of the contract could take anywhere between a few seconds or a few mins if you're deploying to Mainnet depending on how congested the network is. Be patient and wait for Metamask to display a confirmation in the bottom of the screen like so:
+
+![](<.gitbook/assets/Screenshot 2022-02-01 173533.png>)
+
+Great, now that our transaction has gone through we can open Metamask and see that our ETH has been deducted the gas fees for the contract deployment. If you click on Contract Deployment under Activity we can see a few more details.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 173555.png>)
+
+From this pop up we can see the total cost of ETH it took us to deploy our contract. We also have a link where we can see it on the blockchain. Click on the View on block explorer link.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 173609.png>)
+
+This will take us to etherscan (or bscscan if using BSC Testnet) where we can see the transaction that occurred in order to deploy our smart contract.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 173625.png>)
+
+Great! We are now ready to mint our NFTs.
+
+If we head back over to our Remix window we can see the newly deployed contract.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 175513.png>)
+
+&#x20;Lets expand it to see what options we have available to us. There's quite a lot so I have split the images into two. They both include the same withdraw button to provide context on where the settings are in relation to one another.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 175747.png>) ![](<.gitbook/assets/Screenshot 2022-02-01 175823.png>)
+
+As you can see there are a LOT of different ways we can interact with our newly created smart contract.
+
+Lets start out by click Name. It should return the Name of your smart contract which in this example is Furpunks.
+
+Owner - This should display your wallet address which signifies you are the owner of the contract.
+
