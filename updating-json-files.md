@@ -2,7 +2,7 @@
 description: Back to the Furrture
 ---
 
-# Configuration Part II
+# Updating JSON Files
 
 Now that we have uploaded our NFTs to IPFS we need to update our JSON files so that they point to the right location.&#x20;
 
@@ -38,4 +38,4 @@ Now we can confirm that all of our JSON files have been successfully updated by 
 
 ### Summary
 
-Now that we have added our CID to our JSON files we now need to bring all the previous work together and display our images on a NFT market place.
+Now that we have added our CID to our JSON files we need to go back into Pinata and upload the JSON.
