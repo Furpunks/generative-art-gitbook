@@ -34,3 +34,19 @@ Give your file a name, I've called mine NFT.sol, and copy in the contents of the
 
 ![](<.gitbook/assets/Screenshot 2022-02-01 141944.png>)
 
+With our smart contract in Remix we now need to complie it so that Remix can execute it in a later step. To do so click on the Solidity complier icon, the first yellow circle in the image below.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 142353.png>)
+
+For other projects you will need to ensure that your compiler matches or is compatible with the version of your smart contract code. Our smart contract is expecting 0.7.0 <0.9.0 which you can see on line 16 of the code.
+
+The complier version 0.8.7 selected in the screen shot above falls within our expected range so we are good to go.
+
+Be sure to select the box next to Enable optimization and leave the value at 200.
+
+Now click Compile.
+
+Once Remix has compiled the Contract you will see it displayed on the left like so:
+
+![](<.gitbook/assets/Screenshot 2022-02-01 142908.png>)
+
