@@ -88,6 +88,8 @@ This will expand the options that we can provide parameters for.
 
 We can see that the smart contract allows us to supply the Name, Symbol, Base URI and a not revealed URI.
 
+### Smart Contract Parameters
+
 **NAME**
 
 This is the name of our set of NFTs. In this example we will set Name to Furpunks.
@@ -103,6 +105,16 @@ We will be using FUR as our symbol for this guide.
 The base URI is the IPFS URI to our JSON files. So if you have been following along from the beginning you will need to provide your base URI that you have created. For this guide we will be using: [https://ipfs.io/ipfs/](https://ipfs.io/ipfs/)QmXYnfnw5wdyJuTwYqBqty9jboxvNFjZYu7A1HAiHueqvi/
 
 Be sure to replace the CID with the one you have from Pinata otherwise your NFT images will not load. Also do not forget to put a trailing / at the end!
+
+**INITNOTREVEAKEDURI**
+
+This is the base URI to display for NFTs that have not been revealed yet. This is good for when you don't want to show what the NFT is that someone is buying unit they have already purchased it. We won't be using this setting for our example so will just leave it blank.
+
+
+
+Once we have selected our Environment, Contract and added in our values for the contract parameters your screen should look like this:
+
+![](<.gitbook/assets/Screenshot 2022-02-01 172616.png>)
 
 
 
