@@ -168,7 +168,7 @@ If we head back over to our Remix window we can see the newly deployed contract.
 
 As you can see there are a LOT of different ways we can interact with our newly created smart contract.
 
-Lets start out by click Name. It should return the Name of your smart contract which in this example is Furpunks.
+Lets start out by clicking Name. If everything has gone right so far, the smart contract should return the name of your smart contract which in this example is Furpunks.
 
 Owner - This should display your wallet address which signifies you are the owner of the contract.
 
