@@ -1,4 +1,4 @@
-# Requirements
+# Software Tools
 
 **Furpunks Github**
 
@@ -17,6 +17,12 @@ This guide has been created using Windows 11. Other operating systems such as OS
 This guide uses Microsoft's Visual Studio Code as its IDE. Future guides will be expanded to use other IDE's and operating systems.
 
 {% embed url="https://code.visualstudio.com" %}
+
+**Remix IDE**
+
+We will use the Remix IDE when it comes to working with our smart contracts on the testnet.
+
+{% embed url="https://remix.ethereum.org" %}
 
 **Git for Windows**
 
