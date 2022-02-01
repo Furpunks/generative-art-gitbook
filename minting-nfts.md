@@ -36,7 +36,21 @@ Give your file a name, I've called mine NFT.sol, and copy in the contents of the
 
 ![](<.gitbook/assets/Screenshot 2022-02-01 141944.png>)
 
-In a later update to the guide I will walk through what each line of code is doing so that you can follow along with what the contract does.&#x20;
+In a later update to the guide I will walk through what each line of code is doing so that you can follow along with what the contract does. For now though there are a few important settings to be aware of.
+
+`uint256 public maxSupply = 10000;`
+
+`uint256 public maxMintAmount = 20;`
+
+
+
+maxSupply is telling the smart contract that we are going to ever have a total number of 10000 NFTs. You will need to set this to what is suitable for your project.
+
+maxMintAmount tells the smart contract to mint the first 20 NFTs and assign them to the wallet owner. That will be your Metamask wallet that you have connected.
+
+
+
+For our guide I will leave these all set to default even though we only uploaded five NFTs to IPFS earlier.&#x20;
 
 
 
