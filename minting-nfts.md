@@ -12,6 +12,8 @@ And if you're interested in learning more about Remix and the community you can 
 
 {% embed url="https://remix-project.org" %}
 
+## Creating Our Smart Contract
+
 When you first visit Remix you will be presented a screen that looks like this:
 
 ![](<.gitbook/assets/Screenshot 2022-02-01 131311.png>)
@@ -34,6 +36,10 @@ Give your file a name, I've called mine NFT.sol, and copy in the contents of the
 
 ![](<.gitbook/assets/Screenshot 2022-02-01 141944.png>)
 
+In a later update to the guide I will walk through what each line of code is doing so that you can follow along with what the contract does.&#x20;
+
+
+
 With our smart contract in Remix we now need to complie it so that Remix can execute it in a later step. To do so click on the Solidity complier icon, the first yellow circle in the image below.
 
 ![](<.gitbook/assets/Screenshot 2022-02-01 142353.png>)
@@ -50,3 +56,56 @@ Once Remix has compiled the Contract you will see it displayed on the left like 
 
 ![](<.gitbook/assets/Screenshot 2022-02-01 142908.png>)
 
+## Deploying the Smart Contract
+
+To get ready to deploy our smart contract we need to click on the Deploy & run transactions icon circled in yellow below. This will bring up a few options which we will need to configure.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 150156.png>)
+
+First we need to change the Environment to work with Metamask. To do that click the drop down list under Environment and select Injected Web3. A Metamask pop up with be displayed asking you to connect. Click Next.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 150539.png>)
+
+After clicking Next you will be prompted to allow Remix to see address, account balance, activity and initiate transactions. Click Connect.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 150625.png>)
+
+Remix will now show your Environment as Injected Web3 and you will see the following Environment.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 150831.png>)
+
+We now need to tell Remix which Contract we want to Deploy. We can do this by selecting the contract name that we created during Creating our Smart Contract section from the Contract drop down list. The contract in this guide is called NFT.sol so I will select that.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 151146.png>)
+
+With our contract selected we can now pass in a few parameters that will be used when deploying the contract to the blockchain. Click on the arrow circled in yellow below:
+
+![](<.gitbook/assets/Screenshot 2022-02-01 151627.png>)
+
+This will expand the options that we can provide parameters for.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 151659.png>)
+
+We can see that the smart contract allows us to supply the Name, Symbol, Base URI and a not revealed URI.
+
+**NAME**
+
+This is the name of our set of NFTs. In this example we will set Name to Furpunks.
+
+**SYMBOL**
+
+The symbol is the short three or four character representation of our NFTs similar to ETH for Ethereum or KTY for Krypto Kitty :)&#x20;
+
+We will be using FUR as our symbol for this guide.
+
+**INITBASEURI**
+
+The base URI is the IPFS URI to our JSON files. So if you have been following along from the beginning you will need to provide your base URI that you have created. For this guide we will be using: [https://ipfs.io/ipfs/](https://ipfs.io/ipfs/)QmXYnfnw5wdyJuTwYqBqty9jboxvNFjZYu7A1HAiHueqvi/
+
+Be sure to replace the CID with the one you have from Pinata otherwise your NFT images will not load. Also do not forget to put a trailing / at the end!
+
+
+
+
+
+&#x20;

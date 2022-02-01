@@ -24,6 +24,8 @@ Once your JSON files have been uploaded you should see a new folder appear on yo
 
 That's it! We've uploaded all the files we need to IPFS. Our NFTs are on their way to being fully decentralised and will now live on IPFS forever.
 
+Lastly, we need to copy our CID for the Json folder. You can do that by clicking the copy icon next to the CID for your new folder or as in the screenshot above Furpunks\_NFT\_Test\_Json. Hang on to it as we will need it when in comes time to mint our NFTs.
+
 ### Summary
 
 With our files safely stored online we now need to bring all our work together and mint our NFT smart contract.
