@@ -38,7 +38,14 @@ To use the faucet we need to copy our Eth address. You can easily do this by ope
 
 ![](<.gitbook/assets/Screenshot 2022-02-01 135137.png>)
 
-Once we have our address copied head over to the faucet and paste in your address.
+Once we have our address copied head over to the faucet and paste in your address and be sure that 0.1 test ETH is selected then click Send request.
 
+![](<.gitbook/assets/Screenshot 2022-02-01 135745.png>)
 
+Within a few seconds you should now have test each in your wallet. If you click on Metamask you will be able to see your updated balance.
 
+![](<.gitbook/assets/Screenshot 2022-02-01 140108.png>)
+
+### Summary
+
+With Metamask installed and our wallet funded we can now move on to minting our NFTs on the testnet.
