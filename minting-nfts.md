@@ -166,9 +166,50 @@ If we head back over to our Remix window we can see the newly deployed contract.
 
 ![](<.gitbook/assets/Screenshot 2022-02-01 175747.png>) ![](<.gitbook/assets/Screenshot 2022-02-01 175823.png>)
 
-As you can see there are a LOT of different ways we can interact with our newly created smart contract.
+As you can see there are a LOT of different ways we can interact with our newly created smart contract. The options in orange are for applying new values while the options in blue will only return specific results. I will walk through what all the options do in a future update but for now lets start out by clicking on a few and verifying that the information returned from the smart contract is correct.
 
-Lets start out by clicking Name. If everything has gone right so far, the smart contract should return the name of your smart contract which in this example is Furpunks.
+Name: Furpunks
+
+Symbol: Fur
+
+maxSupply: 10000
 
 Owner - This should display your wallet address which signifies you are the owner of the contract.
 
+
+
+If those all return what we expect we know the contract has been deployed successfully.&#x20;
+
+## Minting
+
+With our smart contract now deployed we can begin the minting process. To do so, we want to expand the 'mint' option at the top of the list.
+
+From here we can finally mint our NFTs to our the owner address which will be the Metamask account we used to create the smart contract.
+
+Set the \_mintAmount value to 5 which is the number of NFTs we have created then click the transact button.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 191011.png>)
+
+Metamask will open and ask you to confirm the transaction. Click confirm.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 191713.png>)
+
+This may take anywhere from a few seconds to a few mins depending on how busy the testnet is. Generally though it goes through pretty quickly.
+
+Once Metamask has confirmed the transaction we can view the NFTs on Etherscan. To do so click on Metamask then the Activity tab.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 192049.png>)
+
+From here you will see a list of recent transactions. We can see both the Contract Deployment we did earlier and now the Mint transaction. If you click on Mint you will see the following pop  up.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 192059.png>)
+
+On this pop up we can see that the transaction was indeed Confirmed under status. Now lets view it on the blockchain explorer by clicking View on block explorer link.
+
+What we will see here are the five NFTs that we minted. We won't be able to view them yet but we can see that they have successfully been minted to our wallet address.
+
+![](<.gitbook/assets/Screenshot 2022-02-01 192111.png>)
+
+### Summary
+
+Now that we have successfully deployed our smart contract and minted our first NFT's we need a way to see them and allow people to buy and sell them. To do that we need to add them to an NFT Marketplace.
