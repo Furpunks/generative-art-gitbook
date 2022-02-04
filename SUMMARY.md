@@ -14,6 +14,6 @@
 * [Setting up Metamask](setting-up-metamask.md)
 * [Minting NFTs](minting-nfts.md)
 * [NFT Marketplace](nft-marketplace/README.md)
-  * [Opensea](nft-marketplace/opensea.md)
+  * [OpenSea](nft-marketplace/opensea.md)
 * [Future Roadmap](future-roadmap.md)
 * [Troubleshooting](troubleshooting.md)
