@@ -26,6 +26,30 @@ This will open up a new page where we will want to select Metamask. Once you cli
 
 Once we have connected our wallet to OpenSea, we will be redirected to our OpenSea dashboard.
 
+![](<../.gitbook/assets/Screenshot 2022-02-05 101406.png>)
+
+If this is the first time using OpenSea and you haven't bought any previous NFTs your dashboard will look like the screenshot above with no items to display.&#x20;
+
+Now lets add our smart contract address so that we can see the NFTs we have minted.
+
+To do that click on your profile icon in the top right and select My Collections.
+
+![](<../.gitbook/assets/Screenshot 2022-02-05 101637.png>)
+
+We will now have the option to Create a collection, however, we have already done that ourselves so what we want to do is import our existing smart contract. Click on the three dots and select Import an existing smart contract.
+
+![](<../.gitbook/assets/Screenshot 2022-02-05 101756.png>)
+
+We will now have an option from where to import our contract from. We have been using the testnet so we are going to select Live on a testnet.
+
+![](<../.gitbook/assets/Screenshot 2022-02-05 101957.png>)
+
+OpenSea will now ask us for the smart contract address. We want to make sure we have Rinkeby selected and then paste in our smart contract address followed by clicking Submit.
+
+![](<../.gitbook/assets/Screenshot 2022-02-05 102702.png>)
+
+Once we have imported our smart contract we will now see the minted NFTs appear in our dashboard!
+
 ![](<../.gitbook/assets/Screenshot 2022-02-01 194921.png>)
 
 And with any luck we will see the five NFTs we minted! Easy right! If yours don't immediately show up check out the Troubleshooting section or join the TG Furpunks group and ask for help.
