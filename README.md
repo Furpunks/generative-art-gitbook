@@ -8,9 +8,13 @@ Meet the Furpunks.
 
 ### Scratching Post
 
-I find something refreshing and pleasantly unexpected in the ability to create random pieces of art out of a predefined sets of assets. In Jan 2022 I set myself a challenge to learn how to create my own NFT art automatically and how the whole process worked from the initial generation of art all the way through to sharing it with the public. As a non-programmer, but someone that has hacked / copy pasted my fair share of code, it was also a good way for me to learn more about how the scripting process worked for creating generative NFTs.
+Furpunks is an NFT project similar to CryptoPunks by Larva Labs. This is a personal project that I set out to create in order to teach myself how generative art is made and how to then finally make it available to the public.
 
-During my investigation of how to create generative art I found a number of different methods in which they could be created. Some of the guides were better than others but none of them I felt captured all of the steps I ended up taking. This guide aims to walk anyone interested in creating and publishing their own NFTs through the entire process from beginning to end.&#x20;
+I find something refreshing and pleasantly unexpected in the ability to create random pieces of art out of predefined sets of assets. The results were often surprising, somtimes horrifying but always entertaining.
+
+In Jan 2022 I set myself a challenge to learn how to create my own set of NFT art automatically and how the whole process worked from the initial generation of art all the way through to minting and finally making them available for the general public.
+
+During my investigation I found a number of different ways and methods that allowed me to achieve my goal, however, none of them captured all of the steps I ended up taking along the way. This guide aims to do that and hopefully allow someone else who is interested in creating and publishing their own NFTs, to have a single guide that they are able to follow which will walk them through the entire process from beginning to end.
 
 ### Inspiration&#x20;
 
