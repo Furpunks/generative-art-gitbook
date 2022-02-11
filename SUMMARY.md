@@ -15,6 +15,7 @@
 * [Minting NFTs](minting-nfts.md)
 * [NFT Marketplace](nft-marketplace/README.md)
   * [OpenSea](nft-marketplace/opensea.md)
+  * [Rarible](nft-marketplace/rarible.md)
 * [Future Roadmap](future-roadmap.md)
 * [Troubleshooting](troubleshooting.md)
 * [Official Links](official-links.md)

@@ -2,10 +2,6 @@
 
 This section will walk you through linking your NFTs to OpenSea.
 
-Before we get started make sure you have your smart contract address to hand. If you don't, open Remix and copy it by clicking the copy icon next to your deployed contract. See yellow circle in the following screenshot.
-
-![](<../.gitbook/assets/Screenshot 2022-02-01 193109.png>)
-
 Next, lets head over to OpenSea's testnet app by going to [https://testnets.opensea.io/](https://testnets.opensea.io)
 
 {% embed url="https://testnets.opensea.io" %}
