@@ -9,6 +9,7 @@
 * [Initial Configuration](initial-configuration.md)
 * [Image Hosting](image-hosting/README.md)
   * [IPFS](image-hosting/ipfs.md)
+  * [Arweave](image-hosting/arweave.md)
 * [Updating JSON Files](updating-json-files.md)
 * [Upload JSON Files to IPFS](upload-json-files-to-ipfs.md)
 * [Setting up Metamask](setting-up-metamask.md)

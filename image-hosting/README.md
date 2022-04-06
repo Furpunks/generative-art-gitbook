@@ -29,13 +29,31 @@ Here are a few pros and cons of the different options.
 **PROS**
 
 * Easy to set up and configure
-* Permanent storage so NFTs always available&#x20;
-* No service outages
+* Semi permanent storage so NFTs always available as long as you pay monthly fees
 * Trustworthy source
 
 **CONS**
 
 * Permanent - if you make a mistake in the JSON or NFT, it is very nearly impossible to fix.
+
+
+
+**Arweave**
+
+**PROS**
+
+* Easy to set up and configure
+* Truly permanent storage solution for NFTs
+* No service outages
+* Trustworthy source
+
+**CONS**
+
+* Similar to IPFS, if you make a mistake with your JSON or PNG, it is impossible to change it.
+
+
+
+
 
 
 
